@@ -54,7 +54,6 @@
 | 成功       | `memory/successes/`         |
 | 失败       | `memory/failures/`          |
 | 冲突       | `memory/conflicts/`         |
-| 技能栈     | `memory/skills/skills.md`    |
 | 部门重点   | `memory/department-focus/`   |
 | 已完成     | `memory/completed-tasks/`    |
 
